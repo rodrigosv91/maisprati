@@ -1,4 +1,4 @@
-public class Main {
+public class Main08 {
     public static void main(String[] args) {
         // Criando a empresa
         Empresa empresa = new Empresa();

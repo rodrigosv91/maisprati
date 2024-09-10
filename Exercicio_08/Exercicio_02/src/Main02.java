@@ -1,4 +1,4 @@
-public class Main {
+public class Main02 {
     public static void main(String[] args) {
         // Criando um objeto Produto
         Produto produto1 = new Produto("Camiseta", 100.00, 100);

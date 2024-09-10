@@ -1,7 +1,7 @@
 import java.util.ArrayList;
 import java.util.List;
 
-public class Main {
+public class Main07 {
     public static void main(String[] args) {
         // Criando diferentes formas de pagamento
         FormaPagamento cartao = new CartaoCredito("1234567812345678", "João Silva", "12/25", "123");
